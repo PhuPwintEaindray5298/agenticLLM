@@ -6,6 +6,7 @@ readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
     "gradio>=6.15.2",
+    "ipython>=9.14.0",
     "openai>=2.38.0",
     "openai-agents>=0.17.4",
     "pydantic>=2.13.4",
